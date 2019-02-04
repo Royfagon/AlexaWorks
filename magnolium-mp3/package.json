@@ -1,0 +1,11 @@
+{
+  "name": "alexa-skill-kit-sdk-factskill",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "jmespath": "^0.15.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
